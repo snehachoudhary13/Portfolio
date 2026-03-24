@@ -1,0 +1,7 @@
+﻿src/components/CyberAvatar.tsx(112,19): error TS6133: 'e' is declared but its value is never read.
+src/components/CyberAvatar.tsx(112,22): error TS6133: 'info' is declared but its value is never read.
+src/components/MoreSections.tsx(2,62): error TS6133: 'Users' is declared but its value is never read.
+src/components/ProjectsBoard.tsx(3,59): error TS6133: 'ShieldCheck' is declared but its value is never read.
+src/components/TrainingCinematic.tsx(96,7): error TS6133: 'XPBar' is declared but its value is never read.
+src/components/TrainingCinematic.tsx(304,10): error TS6133: 'earnedXP' is declared but its value is never read.
+src/components/TrainingCinematic.tsx(305,10): error TS6133: 'levelUp' is declared but its value is never read.

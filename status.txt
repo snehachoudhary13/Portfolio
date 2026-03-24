@@ -1,0 +1,239 @@
+﻿ D Desktop/8-jpeg-search.dd
+ D Desktop/Comet.lnk
+ D Desktop/Dev-C++.lnk
+ M Desktop/Discord.lnk
+ D Desktop/Getscreen.me.lnk
+ D Desktop/MSB.exe
+ D Desktop/ai-virtual-bartender-761c91bc-main/.gitignore
+ D Desktop/ai-virtual-bartender-761c91bc-main/README.md
+ D Desktop/ai-virtual-bartender-761c91bc-main/bun.lockb
+ D Desktop/ai-virtual-bartender-761c91bc-main/components.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/eslint.config.js
+ D Desktop/ai-virtual-bartender-761c91bc-main/index.html
+ D Desktop/ai-virtual-bartender-761c91bc-main/package-lock.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/package.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/postcss.config.js
+ D Desktop/ai-virtual-bartender-761c91bc-main/public/favicon.ico
+ D Desktop/ai-virtual-bartender-761c91bc-main/public/placeholder.svg
+ D Desktop/ai-virtual-bartender-761c91bc-main/public/robots.txt
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/App.css
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/App.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/api/cocktailDbApi.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ChatContainer.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ChatInput.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ChatMessage.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/CocktailCard.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/accordion.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/alert-dialog.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/alert.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/aspect-ratio.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/avatar.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/badge.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/breadcrumb.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/button.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/calendar.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/card.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/carousel.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/chart.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/checkbox.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/collapsible.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/command.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/context-menu.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/dialog.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/drawer.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/dropdown-menu.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/form.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/hover-card.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/input-otp.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/input.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/label.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/menubar.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/navigation-menu.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/pagination.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/popover.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/progress.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/radio-group.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/resizable.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/scroll-area.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/select.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/separator.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/sheet.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/sidebar.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/skeleton.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/slider.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/sonner.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/switch.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/table.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/tabs.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/textarea.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/toast.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/toaster.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/toggle-group.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/toggle.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/tooltip.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/components/ui/use-toast.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/context/ChatContext.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/data/cocktails.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/hooks/use-mobile.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/hooks/use-toast.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/index.css
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/lib/utils.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/main.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/pages/Index.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/pages/NotFound.tsx
+ D Desktop/ai-virtual-bartender-761c91bc-main/src/vite-env.d.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/tailwind.config.ts
+ D Desktop/ai-virtual-bartender-761c91bc-main/tsconfig.app.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/tsconfig.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/tsconfig.node.json
+ D Desktop/ai-virtual-bartender-761c91bc-main/vite.config.ts
+ D Desktop/ca2_securing.docx
+ D "Desktop/forensic cases/case1.1/Config/CasePreferences.properties"
+ D "Desktop/forensic cases/case1.1/Log/autopsy.log.0"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/Image Gallery/case1.1_20251205_165031.properties"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/Image Gallery/drawable.db"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/RecentActivity/reg_3/regripper-info.txt"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/segments_1"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/write.lock"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/prefetch/1-Autopsy_PF_DB.db3"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/prefetch/Error.txt"
+ D "Desktop/forensic cases/case1.1/ModuleOutput/prefetch/Output.txt"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Data_Source_Usage.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Tagged_Files.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Tagged_Files.png"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Tagged_Images.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Tagged_Results.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/Tagged_Results.png"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/favicon.ico"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/generator_logo.png"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/index.css"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/nav.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/star.png"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/summary.html"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/content/summary.png"
+ D "Desktop/forensic cases/case1.1/Reports/case1.1 HTML Report 12-05-2025-16-53-25/report.html"
+ D "Desktop/forensic cases/case1.1/SolrCore.properties"
+ D "Desktop/forensic cases/case1.1/autopsy.db"
+ D "Desktop/forensic cases/case1.1/case1.1.aut"
+ D "Desktop/forensic cases/case1/Config/CasePreferences.properties"
+ D "Desktop/forensic cases/case1/Log/autopsy.log.0"
+ D "Desktop/forensic cases/case1/ModuleOutput/Image Gallery/case1_20251205_155632.properties"
+ D "Desktop/forensic cases/case1/ModuleOutput/Image Gallery/drawable.db"
+ D "Desktop/forensic cases/case1/ModuleOutput/RecentActivity/reg_1/regripper-info.txt"
+ D "Desktop/forensic cases/case1/ModuleOutput/RecentActivity/reg_2/regripper-info.txt"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.fdm"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.fdt"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.fdx"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.fnm"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.kdd"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.kdi"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.kdm"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.nvd"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.nvm"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.si"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.tvd"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.tvm"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0.tvx"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_1.liv"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_Lucene84_0.doc"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_Lucene84_0.pos"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_Lucene84_0.tim"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_Lucene84_0.tip"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/_0_Lucene84_0.tmd"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/segments_2"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/write.lock"
+ D "Desktop/forensic cases/case1/ModuleOutput/keywordsearch/data/solr8_schema2.3/tlog/tlog.0000000000000000001"
+ D "Desktop/forensic cases/case1/ModuleOutput/prefetch/173-Autopsy_PF_DB.db3"
+ D "Desktop/forensic cases/case1/ModuleOutput/prefetch/53-Autopsy_PF_DB.db3"
+ D "Desktop/forensic cases/case1/ModuleOutput/prefetch/Error.txt"
+ D "Desktop/forensic cases/case1/ModuleOutput/prefetch/Output.txt"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Data_Source_Usage.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Keyword_Hits.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Keyword_Hits.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Tagged_Files.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Tagged_Files.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Tagged_Images.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Tagged_Results.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/Tagged_Results.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/favicon.ico"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/generator_logo.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/index.css"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/nav.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/star.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/summary.html"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/content/summary.png"
+ D "Desktop/forensic cases/case1/Reports/case1 HTML Report 12-05-2025-16-31-07/report.html"
+ D "Desktop/forensic cases/case1/SolrCore.properties"
+ D "Desktop/forensic cases/case1/autopsy.db"
+ D "Desktop/forensic cases/case1/case1.aut"
+ D "Desktop/forensic cases/class1/Config/CasePreferences.properties"
+ D "Desktop/forensic cases/class1/Log/autopsy.log.0"
+ D "Desktop/forensic cases/class1/ModuleOutput/Image Gallery/class1_20260102_161922.properties"
+ D "Desktop/forensic cases/class1/ModuleOutput/Image Gallery/drawable.db"
+ D "Desktop/forensic cases/class1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/segments_1"
+ D "Desktop/forensic cases/class1/ModuleOutput/keywordsearch/data/solr8_schema2.3/index/write.lock"
+ D "Desktop/forensic cases/class1/SolrCore.properties"
+ D "Desktop/forensic cases/class1/autopsy.db"
+ D "Desktop/forensic cases/class1/class1.aut"
+ D "Desktop/forensic cases/ntfs_x64.efi.filepart"
+ D "Desktop/forensic cases/pendrive_image.dd"
+ D Desktop/logs/20260202.capture.log
+ D Desktop/logs/20260202.log
+ D Desktop/new_image.dd
+ D Desktop/sheet_command.txt
+ D Desktop/sneha_12316523.docx
+ M "Desktop/water pollution"
+ D Desktop/web-recon-backend
+?? -1.14-windows.xml
+?? .antigravity/
+?? .bash_history
+?? .codex/
+?? .copilot/
+?? .dotnet/
+?? .gemini/
+?? .gitconfig
+?? .idlerc/
+?? .openjfx/
+?? .packettracer
+?? .sbx-denybin/
+?? .ssh/
+?? .viminfo
+?? .vscode/
+?? AppData/
+?? Contacts/
+?? Desktop/Antigravity.lnk
+?? Desktop/CybeRECON/
+?? Desktop/CyberRecon/
+?? Desktop/Firefox.exe
+?? Desktop/Portfolio/
+?? "Desktop/dsa/Bollywood_intenligence network/Bollywood_intenligence network.layout"
+?? Desktop/dsa/Dp(1)/Dp(1).layout
+?? Desktop/dsa/Graph/
+?? "Desktop/dsa/dp Problems/"
+?? Desktop/dsa/trees(ques)/
+?? "Desktop/email header forensic tool/"
+?? Documents/
+?? Downloads/
+?? Favorites/
+?? IntelGraphicsProfiles/
+?? Links/
+?? Music/
+?? Mymusic/
+?? NTUSER.DAT
+?? NTUSER.DAT{47d2205a-7d2a-11f0-9d5c-005056c00008}.TM.blf
+?? NTUSER.DAT{47d2205a-7d2a-11f0-9d5c-005056c00008}.TMContainer00000000000000000001.regtrans-ms
+?? NTUSER.DAT{47d2205a-7d2a-11f0-9d5c-005056c00008}.TMContainer00000000000000000002.regtrans-ms
+?? OneDrive/
+?? Pictures/
+?? "Saved Games/"
+?? Searches/
+?? To
+?? Videos/
+?? dns-exfil-infil/
+?? node_modules/
+?? ntuser.dat.LOG1
+?? ntuser.dat.LOG2
+?? ntuser.ini
+?? package-lock.json
+?? package.json
+?? runner/
