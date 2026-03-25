@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { Navigation } from './components/Navigation';
 import { ParticleBackground } from './components/ParticleBackground';
 import { Hero } from './components/Hero';
@@ -46,7 +46,7 @@ const VerificationView = () => (
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="relative min-h-screen">
         <ParticleBackground />
         <MatrixRain />
@@ -67,7 +67,7 @@ function App() {
 
         <CursorGlow />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
