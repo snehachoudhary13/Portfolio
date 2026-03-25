@@ -1,0 +1,138 @@
+
+> cyber-portfolio@0.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m1153[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/[39m
+[2m9:14:47 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m9:14:54 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:17:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:18:21 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m9:19:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m9:26:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m9:26:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m9:27:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:30:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:30:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m9:40:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:40:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m9:40:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectsBoard.tsx, /src/index.css[22m
+[2m9:41:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/TrainingCinematic.tsx, /src/index.css[22m
+[2m9:41:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m9:46:10 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectsBoard.tsx, /src/index.css[22m
+[2m9:50:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectsBoard.tsx, /src/index.css[22m
+[2m9:56:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m10:04:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m10:04:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:14:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m10:14:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m10:14:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m10:22:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m10:22:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m10:24:03 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m10:24:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:25:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m11:17:11 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m11:17:11 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m11:17:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m11:29:21 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m11:30:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:31:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m11:39:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:39:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:40:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m11:46:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m11:46:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:46:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m1:00:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m1:00:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AcademicTimeline.tsx, /src/index.css[22m
+[2m1:00:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m1:19:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:19:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:37:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:43:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m1:46:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:46:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:49:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m1:49:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m2:26:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m2:43:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m2:43:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m3:02:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m3:02:04 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:02:05 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:02:06 pm[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/Portfolio/[39m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/Portfolio/[39m
+[2m3:04:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:04:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:04:49 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m4:54:12 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m4:54:21 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m4:54:47 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m4:54:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m4:54:51 pm[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/[39m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5175[22m/[39m
+/src/index.css[22m
+[2m11:29:21 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ContactPage.tsx, /src/index.css[22m
+[2m11:30:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:31:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m11:39:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:39:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m11:40:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m11:46:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m11:46:14 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m1:00:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m1:00:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/AcademicTimeline.tsx, /src/index.css[22m
+[2m1:00:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SkillsGrid.tsx, /src/index.css[22m
+[2m1:19:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:19:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:37:48 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:37:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:43:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m1:46:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:46:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/BeyondSection.tsx, /src/index.css[22m
+[2m1:49:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m1:49:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MoreSections.tsx, /src/index.css[22m
+[2m2:26:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m2:26:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m2:43:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m2:43:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/index.css[22m
+[2m3:02:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m3:02:04 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:02:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m3:02:05 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:02:06 pm[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/Portfolio/[39m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/Portfolio/[39m
+[2m3:04:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:04:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m3:04:49 pm[22m [36m[1m[vite][22m[39m server restarted.
+[2m4:53:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProjectsBoard.tsx, /src/index.css[22m
+[2m4:53:58 pm[22m [3[2m4:54:12 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m4:54:21 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m4:54:47 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m4:54:48 pm[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m4:54:51 pm[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+rver...[39m
+[2m4:54:51 pm[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m

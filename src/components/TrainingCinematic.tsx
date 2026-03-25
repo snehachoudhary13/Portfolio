@@ -2,15 +2,18 @@ import { useEffect, useRef, useState } from 'react';
 import { AnimatePresence, motion, useInView } from 'framer-motion';
 import { Lock, Medal, ShieldCheck, Star, Unlock } from 'lucide-react';
 
-const AudioCtor =
-  typeof window !== 'undefined'
-    ? window.AudioContext ||
-      (window as Window & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext
-    : undefined;
-
-const audioCx = AudioCtor ? new AudioCtor() : null;
+const getAudioCx = () => {
+  if (typeof window === 'undefined') return null;
+  const win = window as any;
+  if (!win._audioCx) {
+    const Ctor = win.AudioContext || win.webkitAudioContext;
+    if (Ctor) win._audioCx = new Ctor();
+  }
+  return win._audioCx || null;
+};
 
 const playDing = () => {
+  const audioCx = getAudioCx();
   if (!audioCx) return;
   const osc = audioCx.createOscillator();
   const gain = audioCx.createGain();
